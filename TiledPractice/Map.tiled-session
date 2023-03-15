@@ -1,0 +1,78 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "50x50.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "fileStates": {
+        "50x50.tmx": {
+            "scale": 0.5,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 425,
+                "y": 1035
+            }
+        },
+        "Buildings.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "CityTileSet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        },
+        "CityTiles.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 11
+        },
+        "Ground.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 5.5
+        },
+        "Road.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "concrete&water.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 8
+        }
+    },
+    "last.exportedFilePath": "C:/Users/beren/OneDrive/Desktop/GamePractice/TiledPractice",
+    "last.imagePath": "C:/Users/beren/OneDrive/Desktop/Tiles",
+    "map.height": 50,
+    "map.lastUsedExportFilter": "CSV files (*.csv)",
+    "map.lastUsedFormat": "tmx",
+    "map.renderOrder": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 50,
+    "openFiles": [
+        "50x50.tmx",
+        "concrete&water.tsx",
+        "Buildings.tsx",
+        "Road.tsx"
+    ],
+    "project": "Map.tiled-project",
+    "recentFiles": [
+        "Road.tsx",
+        "Buildings.tsx",
+        "concrete&water.tsx",
+        "50x50.tmx",
+        "CityTiles.tsx",
+        "CityTileSet.tsx",
+        "Ground.tsx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.margin": 0,
+    "tileset.spacing": 0,
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.type": 0,
+    "tileset.useTransparentColor": true
+}
